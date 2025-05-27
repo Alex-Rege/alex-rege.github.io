@@ -50,7 +50,7 @@ interests:
 - Magnetized plasmas
 - Landau Damping
 - Quasineutral limit
-- Data Science
+- Semi-Lagrangian schemes
 
 education:
 

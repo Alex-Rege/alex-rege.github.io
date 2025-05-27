@@ -74,7 +74,7 @@ sections:
       view: citation
       
       
-  - block: markdown
+  - block: collection
     id: talks
     content:
       title: "📢 Selected Talks"
@@ -86,7 +86,8 @@ sections:
         * October 2019 – **[NumKin 2019](/uploads/prez_numkin.pdf)**, Munich  
         * July 2019 – **[Vlasovia 2019](/uploads/poster_Vlasovia.pdf)** (Poster), Strasbourg  
 
-  - block: markdown
+      
+  - block: collection
     id: teaching
     content:
       title: "📘 Teaching Activities"
@@ -101,6 +102,7 @@ sections:
         * **[Numerical approximation of functions](/uploads/poly_3M234.pdf)** (3rd year B.Sc.) – _Sorbonne Université_ – 2018  
         * **Tutoring classes in mathematics** (1st/2nd year B.Sc.) – _Université Paris Diderot_ – 2016  
 
+      
   - block: markdown
     id: contact
     content:
