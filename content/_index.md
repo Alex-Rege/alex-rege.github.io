@@ -74,7 +74,7 @@ sections:
       view: citation
       
       
-  - block: collection
+  - block: markdown
     id: talks
     content:
       title: "📢 Selected Talks"
@@ -87,7 +87,7 @@ sections:
         * July 2019 – **[Vlasovia 2019](/uploads/poster_Vlasovia.pdf)** (Poster), Strasbourg  
 
       
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: "📘 Teaching Activities"
