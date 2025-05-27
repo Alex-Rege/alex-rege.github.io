@@ -1,0 +1,17 @@
+<div class="publication-item">
+  <h3 class="publication-title">{{ .Title }}</h3>
+  {{ if .Params.authors }}
+    <p class="publication-authors">
+      {{ range $index, $author := .Params.authors }}
+        {{ if $index }}, {{ end }}{{ $author }}
+      {{ end }}
+    </p>
+  {{ end }}
+  {{ if .Params.publication }}
+    <p class="publication-name">{{ .Params.publication }}</p>
+  {{ end }}
+  {{ if .Params.abstract }}
+    <p class="publication-abstract">{{ .Params.abstract }}</p>
+  {{ end }}
+</div>
+

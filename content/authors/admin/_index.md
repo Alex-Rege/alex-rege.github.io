@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Alexandre Rege
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alexandre
+last_name: Rege
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: #☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,76 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher in Applied Mathematics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: #OpenAI
+    url: #https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: envelope
+    url: 'mailto:alxdr.rege@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+ # - icon: brands/x
+ #   url: https://twitter.com/GetResearchDev
+ # - icon: brands/instagram
+ #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Alex-Rege
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/alexandre-rege-640379149/
+ # - icon: academicons/google-scholar
+ #   url: https://scholar.google.com/
+ # - icon: academicons/orcid
+ #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Magnetized plasmas
+- Landau Damping
+- Quasineutral limit
+- Data Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  - area: PhD in Applied Mathematics
+    institution: Sorbonne Université, Paris, France
+    #date_start: 2016-01-01
+    #date_end: 2020-12-31
+    year: 2021
+    #summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). #Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer #journals.
+  #  button:
+    #  text: 'Read Thesis'
+   #   url: 'https://example.com'
+   
+  - area: M.Sc. in Applied Mathematics
+    institution: Sorbonne Université and Université Paris Diderot, Paris, France
+    year: 2018
+    #date_start: 2016-01-01
+    #date_end: 2020-12-31
+    #summary: |
+    #  GPA: 3.8/4.0
+
+      #Courses included:
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
+  - area: B.Sc. in Mathematics
+    institution: Université Paris Diderot, Paris, France
+    year: 2016
+    #date_start: 2016-01-01
+    #date_end: 2020-12-31
+    #summary: |
+     # GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # Courses included:
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +190,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an applied mathematician working on models in kinetic theory. I am particularly interested in models for magnetized plasmas, such as the magnetized Vlasov-Poisson system and the Vlasov-Maxwell system. From 2021 to 2024, I was a postdoc at the [Department of Mathematics](https://math.ethz.ch/) of ETH Zürich under the supervision of [Mikaela Iacobelli](https://people.math.ethz.ch/~imikaela/home). Before this I was a PhD student working at the [Laboratoire Jacques-Louis Lions](https://www.ljll.fr/) in Paris under the supervision of [Bruno Després](https://www.ljll.fr/despres/) and [Frédérique Charles](https://membres-ljk.imag.fr/Frederique.Charles/). Here is my [PhD manuscript](https://hal.archives-ouvertes.fr/tel-03406651/document) and the [slides of my defense](uploads/soutenance.pdf).

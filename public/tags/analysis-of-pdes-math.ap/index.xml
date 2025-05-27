@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis of PDEs (Math.AP) | Alexandre Rege</title>
+    <link>http://localhost:1313/tags/analysis-of-pdes-math.ap/</link>
+      <atom:link href="http://localhost:1313/tags/analysis-of-pdes-math.ap/index.xml" rel="self" type="application/rss+xml" />
+    <description>Analysis of PDEs (Math.AP)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3421404033145235007.png</url>
+      <title>Analysis of PDEs (Math.AP)</title>
+      <link>http://localhost:1313/tags/analysis-of-pdes-math.ap/</link>
+    </image>
+    
+    <item>
+      <title>From relativistic Vlasov-Maxwell to electron-MHD in the quasineutral regime</title>
+      <link>http://localhost:1313/publication/https-doi-org-10-48550-arxiv-2505-11428/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/https-doi-org-10-48550-arxiv-2505-11428/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stability Estimates in Kinetic Wasserstein Distances for the Vlasov-Poisson System with Yudovich Density</title>
+      <link>http://localhost:1313/publication/https-doi-org-10-48550-arxiv-2503-07122/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/https-doi-org-10-48550-arxiv-2503-07122/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
