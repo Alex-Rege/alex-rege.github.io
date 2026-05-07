@@ -25,7 +25,7 @@ publishDate: '2025-05-23T09:19:13.306326Z'
 #- manuscript
 
 # Publication name and optional abbreviated publication name.
-publication: '*preprint*'
+publication: 'accepted in *Kinetic and Related Models*'
 publication_short: ''
 
 #doi: 10.48550/ARXIV.2503.07122

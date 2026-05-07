@@ -41,8 +41,8 @@ profiles:
     url: https://github.com/Alex-Rege
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexandre-rege-640379149/
- # - icon: academicons/google-scholar
- #   url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.fr/citations?user=0_rwEuUAAAAJ&hl=en&oi=sen
  # - icon: academicons/orcid
  #   url: https://orcid.org/
 
@@ -50,7 +50,8 @@ interests:
 - Magnetized plasmas
 - Landau Damping
 - Quasineutral limit
-- Semi-Lagrangian schemes
+- Machine learning
+- Optimal transport
 
 education:
 
@@ -66,7 +67,7 @@ education:
    #   url: 'https://example.com'
    
   - area: M.Sc. in Applied Mathematics
-    institution: Sorbonne Université and Université Paris Diderot, Paris, France
+    institution: Sorbonne Université and École Polytechnique, Paris, France
     year: 2018
     #date_start: 2016-01-01
     #date_end: 2020-12-31
@@ -190,4 +191,4 @@ awards:
 
 ## About Me
 
-I am an applied mathematician working on models in [kinetic theory](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases). I am particularly interested in models for magnetized plasmas, such as the magnetized Vlasov-Poisson system and the Vlasov-Maxwell system. From 2021 to 2024, I was a postdoc at the [Department of Mathematics](https://math.ethz.ch/) of ETH Zürich. Before this I was a PhD student working at the [Laboratoire Jacques-Louis Lions](https://www.ljll.fr/) in Paris under the supervision of [Bruno Després](https://www.ljll.fr/despres/) and [Frédérique Charles](https://membres-ljk.imag.fr/Frederique.Charles/). Here is my [PhD manuscript](https://hal.archives-ouvertes.fr/tel-03406651/document) and the [slides of my defense](uploads/soutenance.pdf).
+I am an applied mathematician working on models in [kinetic theory](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases) and on machine learning methods for scientific applications. I am particularly interested in models for magnetized plasmas, such as the magnetized Vlasov-Poisson system and the Vlasov-Maxwell system, and more recently in optimal transport-based methods for signal analysis. Since 2026, I am a research associate at the [Paul Scherrer Institute](https://www.psi.ch/en), where I develop machine learning methods for signal unmixing on experimental data. From 2021 to 2024, I was a postdoc at the [Department of Mathematics](https://math.ethz.ch/) of ETH Zürich. Before this I was a PhD student working at the [Laboratoire Jacques-Louis Lions](https://www.ljll.fr/) in Paris under the supervision of [Bruno Després](https://www.ljll.fr/despres/) and [Frédérique Charles](https://membres-ljk.imag.fr/Frederique.Charles/). Here is my [PhD manuscript](https://hal.archives-ouvertes.fr/tel-03406651/document) and the [slides of my defense](uploads/soutenance.pdf).
