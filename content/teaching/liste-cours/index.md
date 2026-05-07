@@ -15,7 +15,7 @@ draft: true
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
-* **An Introduction to Partial Differential Equations** (B.Sc. course) - _ETH Zürich_ - 2022
+* **An Introduction to Partial Differential Equations** - _ETH Zürich_ - 2022
 * **An Introduction to Mean-Field Limits for Vlasov Equations** (M.Sc. course) - _ETH Zürich_ - 2022
 * **[Applied analysis](uploads/poly_3M133.pdf)** (3rd year B.Sc.) - _Sorbonne Université_ - 2019
 * **[Programming in Python](https://python.guillod.org/python001.html)** (3rd year B.Sc.) - _Sorbonne Université_ - 2019
