@@ -24,8 +24,8 @@ role: Researcher in Applied Mathematics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: #OpenAI
-    url: #https://openai.com/
+  - name: Paul Scherrer Institute
+    url: https://www.psi.ch/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

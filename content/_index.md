@@ -92,8 +92,8 @@ sections:
     content:
       title: "📘 Teaching Activities"
       text: |
-        * **An Introduction to Partial Differential Equations** (B.Sc. Seminar) – _ETH Zürich_ – 2022  
-        * **An Introduction to Mean-Field Limits for Vlasov Equations** (M.Sc. seminar) – _ETH Zürich_ – 2022  
+        * **An Introduction to Partial Differential Equations** (B.Sc. course) – _ETH Zürich_ – 2022  
+        * **An Introduction to Mean-Field Limits for Vlasov Equations** (M.Sc. course) – _ETH Zürich_ – 2022  
         * **[Applied analysis](/uploads/poly_3M133.pdf)** (3rd year B.Sc.) – _Sorbonne Université_ – 2019  
         * **[Programming in Python](https://python.guillod.org/python001.html)** (3rd year B.Sc.) – _Sorbonne Université_ – 2019  
         * **[Numerical methods for ODEs](/uploads/poly_3M236.pdf)** (3rd year B.Sc.) – _Sorbonne Université_ – 2019 and 2020  
